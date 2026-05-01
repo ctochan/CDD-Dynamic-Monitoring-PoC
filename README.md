@@ -23,7 +23,7 @@ Traditional periodic KYC reviews (1-3 years) suffer from severe backlogs and con
   5. Alert Synergy (Final Priority)
 
 ## 📂 Repository Contents
-* `PKYC_Transformation_IvanChan.pdf`: Executive presentation slide deck detailing the paradigm shift and business values.
+* `PKYC_Transformation.pdf`: Executive presentation slide deck detailing the paradigm shift and business values.
 * `pkyc_analysis.html`: The automated HTML report generated from the Python engine.
 * `Final_Master_List.csv`: The final prioritized output list serving as a functional spec for IT production.
 
